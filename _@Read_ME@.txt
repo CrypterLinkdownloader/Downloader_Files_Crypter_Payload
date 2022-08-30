@@ -1,1 +1,1 @@
-All your file
+All your files have been encrypted!
